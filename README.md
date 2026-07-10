@@ -9,7 +9,7 @@ Cute & Cozy UI: A completely custom, responsive web design utilizing soft baby p
 
 Seamless Chat Flow: Built as a single-page full-stack interface utilizing asynchronous JavaScript fetch calls to communicate with the server without requiring page reloads.
 
-🛠️ Tech Stack
+Tech Stack
 Backend: Python, Flask
 
 Frontend: HTML5, CSS3 (Glassmorphic styling, custom scrollbars), JavaScript (ES6)
